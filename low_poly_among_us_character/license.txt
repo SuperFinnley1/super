@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly Among us character
+* source:	https://sketchfab.com/3d-models/low-poly-among-us-character-bc5a1c378ad74f6fb56f26486c8edfc2
+* author:	DeltaRayquaza (https://sketchfab.com/EoinMcSharry)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly Among us character" (https://sketchfab.com/3d-models/low-poly-among-us-character-bc5a1c378ad74f6fb56f26486c8edfc2) by DeltaRayquaza (https://sketchfab.com/EoinMcSharry) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
